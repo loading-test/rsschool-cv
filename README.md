@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/loading-test/rsschool-cv/cv
