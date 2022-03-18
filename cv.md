@@ -1,5 +1,4 @@
 # Adel Absalyamov
-<hr />
 
 ### Contacts
 * Location: Russia, Kazan
