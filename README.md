@@ -1,1 +1,1 @@
-https://github.com/loading-test/rsschool-cv/cv
+https://loading-test.github.io/rsschool-cv/cv
